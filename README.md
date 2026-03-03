@@ -1,6 +1,6 @@
 # RapidCMI5 Local Plugin for Moodle (`local_rapidcmi5`)
 
-Bridge plugin between the [RapidCMI5 Electron CLI](https://github.com/nicktrusere/RapidCMI5) and the `mod_cmi5` content library. Provides project/version tracking, automated course deployment, and player version management.
+Bridge plugin between the [RapidCMI5 Electron CLI](https://github.com/bylightsdc/RapidCMI5) and the `mod_cmi5` content library. Provides project/version tracking, automated course deployment, and player version management.
 
 ## Requirements
 

@@ -22,7 +22,7 @@ defined('MOODLE_INTERNAL') || die();
  * Event fired when a cmi5 package is deployed to a course via RapidCMI5.
  *
  * @package    local_rapidcmi5
- * @copyright  2026 David Estes
+ * @copyright  2026 Bylight
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class package_deployed extends \core\event\base {
